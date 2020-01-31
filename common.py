@@ -6,7 +6,8 @@
 import os
 import logging
 
-ROOT_PATH = os.path.join(os.environ['HOME'], 'VisualSearch')
+# ROOT_PATH = os.path.join(os.environ['HOME'], 'VisualSearch')
+ROOT_PATH = r'/content'
 MIN_WORD_COUNT = 5
 
 TEXT_ENCODINGS = ['bow', 'bow_nsw', 'gru']
