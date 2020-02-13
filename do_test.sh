@@ -1,5 +1,6 @@
 
-rootpath=$HOME/VisualSearch
+#rootpath=$HOME/VisualSearch
+rootpath="/content"
 overwrite=0
 
 #trainCollection=tgif-msrvtt10k
